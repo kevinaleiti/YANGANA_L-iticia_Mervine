@@ -1,0 +1,8 @@
+body
+{
+	/* On travaille sur la balise body, donc sur TOUTE la page */
+    background-color: tomato; /* Le fond de la page sera noir */
+    color: blue; /* Le texte de la page sera blanc */
+
+
+}
